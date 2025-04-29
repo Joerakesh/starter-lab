@@ -40,5 +40,5 @@ Feel free to:
 - Modify and break things to learn better
 
 ```bash
-git clone https://github.com/yourusername/starter-lab.git
+git clone https://github.com/Joerakesh/starter-lab.git
 cd starter-lab
